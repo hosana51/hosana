@@ -1,25 +1,23 @@
-name: hosana 
-support_dark_mode: Barbosa 
+name: Hosana jessica Barbosa Da Silva 
+support_dark_mode: true
 fork: true
 
 # Sidebar
 contact:
-  email: info@johndoe.com
-  github: johndoe
-  linkedin: johndoe
+  email: hosanajessica515@gmail.com
+  github: hosana51
+  linkedin: 
   phone: 
   gitlab: 
   twitter: 
 
 languages:
-  - idiom: English
-  - idiom: Russian
-  - idiom: French
+  - idiom: Português
 
 education:
-  - degree: MSc in Informatics
-    time: 2014-2016
-    university: Ionian University
+  - degree: Escola Estadual de Ensino Médio em Tempo Integral Desembargador Silvério Soares 
+    time: 2016-2019
+    university: EEEMTIDSS
 
   - degree: BSc in Computer Science
     time: 2010-2014
@@ -36,16 +34,12 @@ skills:
       - Typescript
   - category: DevOps
     skill:
-      - Docker
-      - Kubernetes 
+      - Proatividade.
+      - Facilidade em Tecnologia
 
 # Profile
-profile: |
-  Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod 
-  tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, 
-  quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. 
-  Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu 
-  fugiat nulla pariatur.
+profile: 
+Competência e dedicação na área foi direcionada para me estabelecer, com bastante praticidade e desempenho.
 
 # Experience
 experience:
@@ -88,8 +82,7 @@ projects:
   - title: Cool Project 
     link: #
     details: |
-      Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod 
-      tempor incididunt ut labore et dolore magna aliqua.
+      Preencher a vaga que estar aberta e contribuir com minhas habilidades em benefício desta renomada instituição.
 
   - title: Cool Project 
     link: #
